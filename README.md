@@ -42,12 +42,4 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries or feedback, please contact:
-
-Your Name - [email@example.com](mailto:email@example.com)
-
-Project Link: [https://github.com/oveey/Manage](https://github.com/oveey/Manage)
-
 Feel free to customize and expand upon this template to include any additional information specific to your project.
